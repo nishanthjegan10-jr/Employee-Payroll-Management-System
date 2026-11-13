@@ -1,0 +1,4 @@
+C101|Toyota Camry|50.0|1||-|-|0.0|
+C102|Honda Civic|45.0|1||-|-|0.0|
+C103|Ford Mustang|85.0|0|kishore|2026-11-11|2026-11-16|510.0|
+C104|Tesla Model 3|95.0|1||-|-|0.0|

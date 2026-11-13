@@ -1,0 +1,15 @@
+[09:21:54] --- RENTAL RECEIPT ---
+Customer Name: kishore
+Address: nedun street
+Mobile: 9047697999
+Aadhaar: XXXX XXXX 9012
+Car: C103 - Ford Mustang
+Rate: $85.00/day
+From: 2026-11-11
+To (Return Due): 2026-11-16
+Duration: 6 Day(s)
+Total Amount: $510.00
+Late Fine: $127.50 per extra day after 2026-11-16
+Status: Confirmed
+-------------------------
+
